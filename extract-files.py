@@ -62,7 +62,6 @@ blob_fixups: blob_fixups_user_type = {
 
 namespace_imports = [
     'hardware/qcom-caf/sm8250',
-    'vendor/qcom/opensource/display',
     'vendor/xiaomi/sm8250-common',
 ]
 
